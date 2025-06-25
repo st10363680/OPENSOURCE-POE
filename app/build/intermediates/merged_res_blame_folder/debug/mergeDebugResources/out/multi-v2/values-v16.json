@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.budgetwiseapp-mergeDebugResources-73:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RC_Student_lab\\.gradle\\caches\\8.11.1\\transforms\\c853c53ad647ff32941e991132e2a865\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

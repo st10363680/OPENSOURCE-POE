@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">345337477417</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFFcigBiFBa4-mRuCsXy-xO88xrlgRZqY</string>
+    <string name="google_app_id" translatable="false">1:345337477417:android:33c042d9b86fc8a3099f38</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFFcigBiFBa4-mRuCsXy-xO88xrlgRZqY</string>
+    <string name="google_storage_bucket" translatable="false">budgetwise-e2a7e.firebasestorage.app</string>
+    <string name="project_id" translatable="false">budgetwise-e2a7e</string>
+</resources>

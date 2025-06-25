@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\layout_activity_view_expenses.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\layout\\activity_view_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\layout_activity_view_photo.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\layout\\activity_view_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\drawable_consistency.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\drawable\\consistency.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\drawable_badge.png.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\drawable\\badge.png"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\layout_activity_add_category.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\layout\\activity_add_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\layout_item_expense.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\layout_activity_add_expense.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\layout\\activity_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\layout_activity_view_summary.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\layout\\activity_view_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\layout_activity_set_goals.xml.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\layout\\activity_set_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.budgetwiseapp-debug-75:/layout_activity_login.xml.flat",
+        "source": "com.example.budgetwiseapp-main-77:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-debug-75:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\RC_Student_lab\\.gradle\\daemon\\8.11.1\\com.example.budgetwiseapp-main-77:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]

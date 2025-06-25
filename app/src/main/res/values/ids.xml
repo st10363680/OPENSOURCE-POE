@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtMaxGoal" type="id" />
+    <item name="btnSaveGoals" type="id" />
+    <item name="edtMinGoal" type="id" />
+</resources>
